@@ -4,7 +4,7 @@
         <description><![CDATA[The Online Resumé of Kenny O'Donnell]]></description>
         <link>https://thegrid.ai/kennyodonnell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 03:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 04:03:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kennyodonnell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kenny O'Donnell ]]></title>
@@ -12,6 +12,15 @@
             <link>https://thegrid.ai/kennyodonnell/online-career-summary/index.html</link>
             <guid isPermaLink="false">3986541a-d4cc-4a7c-b012-8660e5793e9d</guid>
             <pubDate>Thu, 17 Mar 2016 22:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quality of Service]]></title>
+            <description><![CDATA[<article><h1>Quality of Service</h1><p>Developed a Quality of Service scoring and monitoring methodology on the
+Private Cloud platform utilizing Big Data real-time and predictive analytics whilst
+learning Splunk from scratch.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/838e9ad1-d8dd-488b-9479-42119959855d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kennyodonnell/quality-of-service/index.html</link>
+            <guid isPermaLink="false">fc7592dc-9738-43b4-abd5-5bb4f92fbcaf</guid>
+            <pubDate>Wed, 23 Mar 2016 04:02:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Service Delivery Manager]]></title>
@@ -68,13 +77,6 @@
             <link>https://thegrid.ai/kennyodonnell/awards-and-recognition/index.html</link>
             <guid isPermaLink="false">f999deb5-7f44-4098-a003-81adfc50b117</guid>
             <pubDate>Thu, 17 Mar 2016 01:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Work Experience (Prior to Australia)]]></title>
-            <description><![CDATA[<article><h1>Work Experience (Prior to Australia)</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8342aab4ec38636d8d6946058151abf0c8324000.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kennyodonnell/work-experience-prior-to-australia/index.html</link>
-            <guid isPermaLink="false">455f221e-0b70-4020-a99b-5066d5489c99</guid>
-            <pubDate>Wed, 16 Mar 2016 06:04:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
