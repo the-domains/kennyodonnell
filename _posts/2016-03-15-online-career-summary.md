@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: "Online\_Resumé for Kenny O'Donnell"
-datePublished: '2016-03-17T22:12:57.261Z'
-dateModified: '2016-03-17T22:12:42.723Z'
+description: "Online\_Resumé of Kenny O'Donnell"
+datePublished: '2016-03-23T06:59:57.019Z'
+dateModified: '2016-03-23T06:59:41.128Z'
 title: "Kenny O'Donnell "
 author: []
 sourcePath: _posts/2016-03-15-online-career-summary.md
@@ -22,7 +22,7 @@ url: online-career-summary/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f06fbca65fef788eef5b990105469e7d3e63a3e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/373d60a9-7236-4c0e-a9b9-0084f2591df3.jpg)
 
 Online Resumé of Kenny O'Donnell
 
