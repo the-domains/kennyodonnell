@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Service Delivery Manager for ING Direct, Sydney Australia from February 2012 to present.'
-datePublished: '2016-03-23T03:41:27.588Z'
-dateModified: '2016-03-23T03:41:05.888Z'
+datePublished: '2016-03-23T03:50:37.293Z'
+dateModified: '2016-03-23T03:50:36.360Z'
 title: Service Delivery Manager
 author: []
+sourcePath: _posts/2016-03-23-service-delivery-manager.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-service-delivery-manager.md
-published: true
 url: service-delivery-manager/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/267d9f04-3681-4fa7-971f-ed1c3b2cb46c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4f3e118-0087-47d2-8237-10080af98035.jpg)
 
 Service Delivery Manager for ING Direct, Sydney Australia from February 2012 to present.
 
