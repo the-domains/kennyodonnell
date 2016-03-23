@@ -4,7 +4,7 @@
         <description><![CDATA[The Online Resumé of Kenny O'Donnell]]></description>
         <link>https://thegrid.ai/kennyodonnell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 00:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 01:42:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kennyodonnell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kenny O'Donnell ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kennyodonnell/online-career-summary/index.html</link>
             <guid isPermaLink="false">3986541a-d4cc-4a7c-b012-8660e5793e9d</guid>
             <pubDate>Thu, 17 Mar 2016 22:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enterprise Kaizen Partner]]></title>
+            <description><![CDATA[<article><h1>Enterprise Kaizen Partner</h1><p>Enterprise Kaizen Partner for NAB Technology, Sydney & Melbourne. (Temporary secondment for 5 months)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d395f4b7aba2e0ae9bdb0a1ecea0976add9ea6c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kennyodonnell/enterprise-kaizen-partner/index.html</link>
+            <guid isPermaLink="false">d1f28f94-7dbe-42ed-8be2-2a92a945681d</guid>
+            <pubDate>Wed, 23 Mar 2016 01:42:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Delivery Manager - Insurance Platform]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kennyodonnell/professional-development/index.html</link>
             <guid isPermaLink="false">ca1e88cf-e6bb-481c-8b38-5533b9965edc</guid>
             <pubDate>Wed, 16 Mar 2016 04:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Volunteering]]></title>
-            <description><![CDATA[<article><h1>Volunteering</h1><p>I really care about those less fortunate than myself and found that serving on the board of Christians Against Poverty in Australia was a good way for me to use my skills to give something back. I was Chairman from 2006 - 2015 and will remain a Director from 2016 onwards. During this time the charity has more than doubled in size whilst headcount remained relatively flat, the budget is stable and the number of ordinary Australians being helped has quadrupled.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d92e75c1ea202c354b79d495fe1d3c9cc77df96a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kennyodonnell/volunteering/index.html</link>
-            <guid isPermaLink="false">bcd2a71e-0faf-4d45-bfd1-40b92d024775</guid>
-            <pubDate>Wed, 16 Mar 2016 00:24:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
